@@ -9,5 +9,10 @@
 - [x] Basic Data Structures and Algorithms
 - [x] Basic Knowledge with Operating Systems
 
-### _Topics_
+### _Plan_
 
+| Phase  | Content |
+| ------------- | ------------- |
+| 1  | ***Topics***|
+| 2  |   |
+| 3  |   |
