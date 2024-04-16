@@ -13,6 +13,6 @@
 
 | Phase  | Content |
 | ------------- | ------------- |
-| 1  |***Topics***<br> - [x] HTML<br> - [x] CSS <br> ***Resources***  <br> - [x] [ELzero Web School _HTML_](https://www.youtube.com/watch?v=qfPUMV9J5yw&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J)   <br> - [x] [ELzero Web School _Css_](https://www.youtube.com/watch?v=qyVkLebgfzY&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=2)  |
+| 1  |***Topics***<br> `- [x]` HTML<br> `- [x]` CSS <br> ***Resources***  <br> `- [x]` [ELzero Web School _HTML_](https://www.youtube.com/watch?v=qfPUMV9J5yw&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J)   <br> `- [x]` [ELzero Web School _Css_](https://www.youtube.com/watch?v=qyVkLebgfzY&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=2)  |
 | 2  |   |
 | 3  |   |
