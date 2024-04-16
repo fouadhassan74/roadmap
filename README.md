@@ -13,6 +13,6 @@
 
 | Phase  | Content |
 | ------------- | ------------- |
-| 1  |***Topics***<br> - HTML<br> - CSS <br> ***Resources***  |
+| 1  |***Topics***<br> - [x] HTML<br> - [x] CSS <br> ***Resources***  <br> - [x][ELzero Web School _HTML_](https://www.youtube.com/watch?v=qfPUMV9J5yw&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J)   |
 | 2  |   |
 | 3  |   |
