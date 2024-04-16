@@ -26,4 +26,5 @@
 ### _Plan_
 | Phase  | Content |
 | ------------- | ------------- |
-| 1| ***🎯Topics***<br>  `- [x]` BootStrap <br>  `- [x]` Tailwind <br> ***🎞️Resources***  <br>`- [x]`[Bootstrap Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)  <br> `- [x]`[Bootstrap freeCodeCamp](https://www.youtube.com/watch?v=-qfEOE4vtxE) <br>  `- [x]` [tailwind doc](https://tailwindcss.com/docs/installation) <br>  `- [x]` [tailwind freeCodeCamp ](https://www.youtube.com/watch?v=ft30zcMlFao) |
+| 1 | ***🎯Topics***<br>  `- [x]` BootStrap <br>  `- [x]` Tailwind <br> ***🎞️Resources***  <br>`- [x]`[Bootstrap Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)  <br> `- [x]`[Bootstrap freeCodeCamp](https://www.youtube.com/watch?v=-qfEOE4vtxE) <br>  `- [x]` [tailwind doc](https://tailwindcss.com/docs/installation) <br>  '- [x]' [tailwind freeCodeCamp ](https://www.youtube.com/watch?v=ft30zcMlFao) |
+| 2 | |
