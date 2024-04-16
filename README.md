@@ -20,11 +20,10 @@
 ## _Level 1_
 ### ***Objective***
 **By the end of this level, the learner should know**
-- [x] How the internet and the web browser work
-- [x] How frontend code works
-- [x] Version Control Systems
-- [x] What are relational and non-relational databases
-- [x] Basic Data Structures and Algorithms
-- [x] Basic Knowledge with Operating Systems
-
+- [x] Work with css frameworks(Bootstrap,Tailwind)
+- [x] work with sass
+- [x] deep knowlodge in javasecript
 ### _Plan_
+| Phase  | Content |
+| ------------- | ------------- |
+| 1| ***🎯Topics***<br>  `- [x]` BootStrap <br>  `- [x]` Tailwind <br> ***🎞️Resources***  <br>`- [x]`[Bootstrap Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)  <br> `- [x]`[Bootstrap freeCodeCamp](https://www.youtube.com/watch?v=-qfEOE4vtxE) <br>  `- [x]` [tailwind doc](https://tailwindcss.com/docs/installation) <br>  `- [x]` [tailwind freeCodeCamp ](https://www.youtube.com/watch?v=ft30zcMlFao) |
