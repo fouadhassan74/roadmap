@@ -13,8 +13,6 @@
 
 | Phase  | Content |
 | ------------- | ------------- |
-| 1  |***Topics***
-        +HTML
-        +CSS|
+| 1  |***Topics***<br>+ HTML<br>+ CSS <br>***Resources***  |
 | 2  |   |
 | 3  |   |
