@@ -3,11 +3,11 @@
 ### ***Objective***
 **By the end of this level, the learner should know**
 - [x] How the internet and the web browser work
-- [ ] How frontend code works
-- [ ] Version Control Systems
-- [ ] What are relational and non-relational databases
-- [ ] Basic Data Structures and Algorithms
-- [ ] Basic Knowledge with Operating Systems
+- [x] How frontend code works
+- [x] Version Control Systems
+- [x] What are relational and non-relational databases
+- [x] Basic Data Structures and Algorithms
+- [x] Basic Knowledge with Operating Systems
 
 ### _Topics_
 
